@@ -1,1 +1,1 @@
-# c irc texttwist
+# c irc bible bot
